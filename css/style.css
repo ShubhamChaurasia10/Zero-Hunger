@@ -5,8 +5,8 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    /* background: rgb(255, 246, 246); */
-    background-image: url("https://github.com/ShubhamChaurasia10/Zero-Hunger/blob/master/img/Seattle.jpg");
+    /* background: #d1d1cb; */
+    background-image: url("https://github.com/ShubhamChaurasia10/Zero-hunger/img/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
